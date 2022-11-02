@@ -1,3 +1,3 @@
-puts File.basename("/home/alexis/Epreuve_AC/terre01.rb")
-
+#puts File.basename("/home/alexis/Epreuve_AC/terre01.rb")
+puts $0
 
